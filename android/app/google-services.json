@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "725000468713",
+    "firebase_url": "https://shredseek-8eee1.firebaseio.com",
+    "project_id": "shredseek-8eee1",
+    "storage_bucket": "shredseek-8eee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725000468713:android:607f421e7a19f698",
+        "android_client_info": {
+          "package_name": "com.mtb.shredseek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725000468713-olvt5arrs7ch2i3u7srgof3bbnleg7bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCwXckJoPYF_Ht1whEx-ER2C3zcYDTOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725000468713-olvt5arrs7ch2i3u7srgof3bbnleg7bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
